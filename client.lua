@@ -1,6 +1,6 @@
 local x = posX 
 local y = posY
-local outline = Config.textOutline
+local outline = textOutline
 local time
 local hour
 local minute
